@@ -1,7 +1,7 @@
 # Stepper-Motor
 Controlling​ ​Stepper​ ​Motor​ ​Direction​ ​and​ ​Speed With Raspberry Pi
 
-This project was done for PC/CP320 Class at WLU. 
+This project was done for PC/CP320 Class at WLU, Fall 2017. 
 
 ## Project Description
 
